@@ -1,0 +1,6 @@
+{
+  "name": "JAM 3D StitchWorks - Professional Email Signature",
+  "description": "Cross-platform responsive email signature generator with inline CSS, click-to-call, and mobile scaling for Gmail, Microsoft 365, and Outlook.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
